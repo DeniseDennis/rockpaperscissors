@@ -1,10 +1,10 @@
-##rockpaperscissors
+## rockpaperscissors
 
-#Rock Paper Scissors
+# Rock Paper Scissors
 A python based rock paper scissor game
 
 
-##Usage
+## Usage
 
 Player can choose from different computer opponents with different play styles
 
